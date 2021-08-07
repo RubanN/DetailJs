@@ -10,3 +10,13 @@
 // var s = Boolean(myString);
 
 //Creating Boolean objects with an initial value of false
+// var bNoParam = new Boolean();
+// console.log(bNoParam);
+// var bZero = new Boolean(0);
+// console.log(bZero);
+// var bNull = new Boolean(null);
+// console.log(bNull );
+// var bEmptyString = new Boolean('');
+// console.log(bEmptyString);
+// var bfalse = new Boolean(false);
+// console.log(bfalse);
